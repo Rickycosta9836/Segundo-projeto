@@ -5,6 +5,6 @@
   
   <head>
  <body>
- <p> Como usar git </p>
+ <p> novo projeto </p>
  </body>
  </html>
